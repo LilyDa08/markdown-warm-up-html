@@ -1,7 +1,8 @@
 
 Hello,
 
-Take a look at my [visit-Card](https://lilyda08.github.io/markdown-warm-up-html/)
+Take a look at this [page](https://lilyda08.github.io/markdown-warm-up-html/)
+it was a training exercice at **BECODE school**
 
 September 2018
 
