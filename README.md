@@ -2,7 +2,7 @@
 Hello,
 
 Take a look at this [page](https://lilyda08.github.io/markdown-warm-up-html/)
-it was a training exercice at **BECODE school**
+It was my first HTML training exercise at **BECODE school**
 
 September 2018
 
